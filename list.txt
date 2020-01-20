@@ -27,3 +27,5 @@ https://osu.ppy.sh/beatmapsets/861357
 https://osu.ppy.sh/beatmapsets/946446
 https://osu.ppy.sh/beatmapsets/64842
 https://osu.ppy.sh/beatmapsets/840964
+https://osu.ppy.sh/beatmapsets/240919
+https://osu.ppy.sh/beatmapsets/333140
