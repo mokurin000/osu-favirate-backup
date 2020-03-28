@@ -80,7 +80,6 @@ https://osu.ppy.sh/beatmapsets/829646
 https://osu.ppy.sh/beatmapsets/84023
 https://osu.ppy.sh/beatmapsets/972816
 https://osu.ppy.sh/beatmapsets/994104
-https://osu.ppy.sh/beatmapsets/994887
 https://osu.ppy.sh/beatmapsets/1079921
 https://osu.ppy.sh/beatmapsets/519054
 https://osu.ppy.sh/beatmapsets/875806
