@@ -60,7 +60,6 @@ https://osu.ppy.sh/beatmapsets/1078502
 https://osu.ppy.sh/beatmapsets/950890
 https://osu.ppy.sh/beatmapsets/153920
 https://osu.ppy.sh/beatmapsets/891356
-https://osu.ppy.sh/beatmapsets/931452
 https://osu.ppy.sh/beatmapsets/59631
 https://osu.ppy.sh/beatmapsets/770165
 https://osu.ppy.sh/beatmapsets/101123
@@ -102,7 +101,6 @@ https://osu.ppy.sh/beatmapsets/1090677
 https://osu.ppy.sh/beatmapsets/288486
 https://osu.ppy.sh/beatmapsets/417492
 https://osu.ppy.sh/beatmapsets/868749
-https://osu.ppy.sh/beatmapsets/217134#准备找狗妈翻唱版本的谱面……
 https://osu.ppy.sh/beatmapsets/844415
 https://osu.ppy.sh/beatmapsets/1106912
 https://osu.ppy.sh/beatmapsets/1093626
