@@ -271,3 +271,9 @@ https://osu.ppy.sh/beatmapsets/932657
 https://osu.ppy.sh/beatmapsets/933984
 https://osu.ppy.sh/beatmapsets/971561
 https://osu.ppy.sh/beatmapsets/994104
+https://osu.ppy.sh/beatmapsets/814673
+https://osu.ppy.sh/beatmapsets/990035
+https://osu.ppy.sh/beatmapsets/743239
+https://osu.ppy.sh/beatmapsets/1009732
+https://osu.ppy.sh/beatmapsets/920344
+https://osu.ppy.sh/beatmapsets/874895
