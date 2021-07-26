@@ -284,3 +284,17 @@ https://osu.ppy.sh/beatmapsets/800102#osu/1679789
 https://osu.ppy.sh/beatmapsets/476691#osu/1018238
 https://osu.ppy.sh/beatmapsets/735497#osu/1552579
 https://osu.ppy.sh/beatmapsets/184498#osu/455807
+https://osu.ppy.sh/beatmapsets/1112435
+https://osu.ppy.sh/beatmapsets/1112375
+https://osu.ppy.sh/beatmapsets/643961
+https://osu.ppy.sh/beatmapsets/729808
+https://osu.ppy.sh/beatmapsets/8965
+https://osu.ppy.sh/beatmapsets/867737
+https://osu.ppy.sh/beatmapsets/772288
+https://osu.ppy.sh/beatmapsets/606278
+https://osu.ppy.sh/beatmapsets/22350
+https://osu.ppy.sh/beatmapsets/667713
+https://osu.ppy.sh/beatmapsets/403612
+https://osu.ppy.sh/beatmapsets/1015289
+https://osu.ppy.sh/beatmapsets/1270122
+https://osu.ppy.sh/beatmapsets/348381
